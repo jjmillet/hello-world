@@ -1,2 +1,4 @@
 # hello-world
-this is a test repository to learn github
+Hello everyone!
+
+Greetings from North Carolina, home to the Duke Blue Devils!
